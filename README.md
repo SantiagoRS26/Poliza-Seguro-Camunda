@@ -4,7 +4,7 @@ Este documento describe los pasos necesarios para desplegar el proyecto Java uti
 
 ## Prerrequisitos
 
-Asegúrate de tener instalado Intellij , Git y JDK 17  antes de comenzar.
+Asegúrate de tener instalado Intellij, Git, Node.js y JDK 17  antes de comenzar.
 
 ## Configuración del entorno
 
