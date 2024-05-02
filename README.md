@@ -83,7 +83,3 @@ Una vez que la aplicación esté en funcionamiento, sigue estos pasos para ejecu
 ## Soporte
 
 Si encuentras algún problema durante el despliegue, por favor abre un issue en el repositorio de GitHub o contacta al equipo de soporte.
-
----
-
-Esperamos que esta guía te sea útil para desplegar el proyecto localmente y comenzar a trabajar con Camunda BPM.
