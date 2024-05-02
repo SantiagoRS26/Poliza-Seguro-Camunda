@@ -58,17 +58,29 @@ http://localhost:8080/camunda-welcome/index.html
 
 Una vez que la aplicación esté en funcionamiento, sigue estos pasos para ejecutar el proceso de negocio utilizando Camunda Modeler:
 
-1. Abre Camunda Modeler en tu sistema y carga el archivo BPMN del proceso de negocio ubicado en la siguiente ruta: 
+1. Estando en la siguiente ruta:
+
+    ```
+    Parcial2Software\Parcial2Software\workers\
+    ```
+
+    Ejecutar el siguiente comando:
+
+    ```
+    node .\cancelInsurence.js
+    ```
+
+2. Abre Camunda Modeler en tu sistema y carga el archivo BPMN del proceso de negocio ubicado en la siguiente ruta: 
     ```
     Parcial2Software\Parcial2Software\src\main\resources\META-INF\static.bpmn\Poliza Vehiculo (1).bpmn
     ```
 
-2. Despliega el proceso a traves de Camunda Modeler:
+3. Despliega el proceso a traves de Camunda Modeler:
 
 ![alt text](/images_md/image.png)
 
 
-3. Se ingresa a la plataforma para acceder al menu de tasklist.
+4. Se ingresa a la plataforma para acceder al menu de tasklist.
     ```
     http://localhost:8080/camunda/app/tasklist/default/#
     ```
@@ -79,7 +91,7 @@ Una vez que la aplicación esté en funcionamiento, sigue estos pasos para ejecu
     password: `demo`
 
 
-4. Luego de ingresar a la plataforma se inicia una instancia del proceso desde la interfaz de usuario de Camunda.
+5. Luego de ingresar a la plataforma se inicia una instancia del proceso desde la interfaz de usuario de Camunda.
 
 ![alt text](/images_md/Camunda.jpg)
 
