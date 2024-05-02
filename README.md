@@ -64,7 +64,10 @@ Una vez que la aplicación esté en funcionamiento, sigue estos pasos para ejecu
     ```
 
 2. Despliega el proceso a traves de Camunda Modeler:
+
 ![alt text](/images_md/image.png)
+
+
 3. Se ingresa a la plataforma para acceder al menu de tasklist.
     ```
     http://localhost:8080/camunda/app/tasklist/default/#
