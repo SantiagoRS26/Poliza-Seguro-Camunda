@@ -31,7 +31,7 @@ Configura la variable `JAVA_HOME` para apuntar a la carpeta donde se instaló el
 - Ve a Control Panel > System and Security > System > Advanced system settings > Environment Variables.
 - Bajo System Variables, haz clic en New y añade `JAVA_HOME` con el path al JDK.
 
-![Variables de Entorno](images_md\JAVA_HOME.jpg)
+![Variables de Entorno](/images_md/JAVA_HOME.jpg)
 
 
 ### 4. Ejecutar el proyecto
